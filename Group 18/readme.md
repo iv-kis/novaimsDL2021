@@ -28,4 +28,4 @@ a good model and requiring the generation of
 artificial images that accurately mimic the
 image classes.  
 ## github
-https://github.com/Farkites/GAN_quick_draw  
+https://github.com/Farkites/GAN_quick_draw   
