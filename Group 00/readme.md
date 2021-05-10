@@ -19,4 +19,4 @@ same success. The best score was 25% which indicates that the model is not able 
 born gender.
 ## Keywords
 Gender Classification, Image Recognition, Transgender, Deep Learning, Convolutional
-neural Networks, Transfer Learning
+neural Networks, Transfer Learning 
