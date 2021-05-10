@@ -14,4 +14,4 @@ positive or negative. Our aim was to create a Convolutional Neural Network that 
 detect the cloud-like structures in the lung with the goal to optimize
 both precision and recall.
 ## github
-https://github.com/mariushes/Covid_ChestXRay_Classification
+https://github.com/mariushes/Covid_ChestXRay_Classification 
