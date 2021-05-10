@@ -11,4 +11,4 @@ We apply CycleGAN to the two distinct cases of style transfer for images of cars
 ## Keywords
 style transfer, unpaired dataset, image-to-image translation, CycleGAN, color transformations  
 ## github
-https://github.com/fredericosantos/nova_ims_DL
+https://github.com/fredericosantos/nova_ims_DL 
